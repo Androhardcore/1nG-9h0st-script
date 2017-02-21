@@ -1,6 +1,6 @@
 # Auto-Installer-VPS
 Hallo pengunjung blog www.androhardcore.id, untuk tutorial kali ini saya akan membahas script auto installer VPS, ada beberapa services yang otomatis di instal antara lain:<br
-# List-Service
+# List-Auto Installer
 
 OpenVPN  : TCP 1194 <br>
 OpenSSH  : 22, 143<br>
@@ -8,9 +8,9 @@ Dropbear : 109, 110, 443<br>
 Squid3   : 8080 (limit to IP SSH)<br>
 badvpn   : badvpn-udpgw port 7300 <br>
 Webmin <br>
-VNSTAT <br>
-MRTG <br>
+DLL <br>
 Selengkapnya lihat di LOG setelah instalasi <br>
+ketikan menu di console VPS untuk lebih jelasnya ;-) <br>
 
 # Tutorial Installasi : <br>
 1. Login VPS<br>
