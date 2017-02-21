@@ -14,10 +14,10 @@ Selengkapnya lihat di LOG setelah instalasi <br>
 
 # Tutorial Installasi : <br>
 1. Login VPS<br>
-2. # wget https://raw.githubusercontent.com/Androhardcore/ahwan0m/master/debian7-32.sh <br>
+2. # wget https://raw.githubusercontent.com/Androhardcore/1nG-9h0st/master/debian7-32.sh <br>
 3. # chmod +x debian7-32.sh <br>
 4. # ./debian7-32.sh <br>
-5. tunggu sampai proses selesai > reboot vps anda<br>
+5. Tunggu hingga instalasi selesai, kira-kira 5 menitan >  Kemudian reboot vps anda<br>
 <br>
 
 <br>
